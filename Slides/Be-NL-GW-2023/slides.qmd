@@ -1,0 +1,78 @@
+---
+format:
+  revealjs:
+    title-block-style: none
+    slide-number: c
+    title-slide-style: default
+    chalkboard:
+      buttons: false
+    auto-animate: true
+    reference-location: section
+    touch: true
+    pause: false
+    footnotes-hover: true
+    citations-hover: true
+    preview-links: true
+    controls-tutorial: false
+    controls: false
+    # logo: "https://raw.githubusercontent.com/saforem2/saforem2.github.io/master/favicon.svg"
+    history: false
+    # theme: [dark, css/dark-slides.scss]
+    # theme: [css/syntax-dark.scss, css/dark-slides.scss]
+    css:
+    #   - "css/default.css"
+      - "css/my_css.css"
+    self-contained: false
+    embed-resources: false
+    self-contained-math: false
+    center: true
+    # highlight-style: "atom-one"
+    default-image-extension: svg
+    code-line-numbers: true
+    code-overflow: scroll
+    # html-math-method: katex
+    fig-align: center
+    title: "Machine learning for relativistic hydrodynamics"
+    resources:
+        - slides.pdf
+---
+
+# {.title-slide .centeredslide}
+
+::: {style="background-color: rgba(0, 0, 255, 1); border-radius: 10px; text-align:center; padding: 0px; padding-left: 1em; padding-right: 1em; max-width: 100%; min-width: 100%; margin-left: auto; margin-right: auto; padding-top: 0.2em; padding-bottom: 0.2em; line-height: 1.5em!important;"}
+
+
+[Machine learning for relativistic hydrodynamics simulations]{style="color: rgba(255,255,255,1); font-size:1.5em; font-weight: bold;"}  
+
+<!-- [<br>&nbsp;]{style="padding-bottom: 0.5rem;"}   -->
+
+:::
+
+<br>
+
+<div style="text-align: center;">
+Thibeau Wouters
+</div>
+
+<div style="font-size: 18px; text-align: center;">
+GRASP, Utrecht University
+</div>
+
+
+<br>
+
+<div style="text-align: center; font-size: 21px">
+*with Arthur Offermans, Tjonnie Li, Patrick C.K. Cheong*
+</div>
+
+<br>
+
+
+![](images/KU_Leuven.png){.absolute top="100%" left="0" width="200"}
+![](images/UU.png){.absolute top="100%" left="400" width="200"}
+![](images/CUHK.png){.absolute top="100%" left="800" width="200"}
+
+
+## Overview
+
+This is the intro 
