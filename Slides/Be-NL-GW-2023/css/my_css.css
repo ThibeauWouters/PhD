@@ -13,3 +13,12 @@ body {
     font-size: 11px;
   }
   
+
+  .container {
+    background-color: red;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   }
+
+.image { margin: 200px; background-color: blue; width: 200px;}

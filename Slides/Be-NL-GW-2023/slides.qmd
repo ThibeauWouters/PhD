@@ -68,9 +68,15 @@ GRASP, Utrecht University
 <br>
 
 
-![](images/KU_Leuven.png){.absolute top="100%" left="0" width="200"}
+<!-- ![](images/KU_Leuven.png){.absolute top="100%" left="0" width="200"}
 ![](images/UU.png){.absolute top="100%" left="400" width="200"}
-![](images/CUHK.png){.absolute top="100%" left="800" width="200"}
+![](images/CUHK.png){.absolute top="100%" left="800" width="200"} -->
+
+<div class="container">
+  <img src="./images/KU_Leuven.png" class="image" alt="KU Leuven">
+  <img src="./images/UU.png" class="image"  alt="UU">
+  <img src="./images/CUHK.png" class="image"  alt="CUHK">
+</div>
 
 
 ## Overview
